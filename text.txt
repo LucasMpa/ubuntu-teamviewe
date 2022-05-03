@@ -1,0 +1,6 @@
+executa os seguintes comandos
+sudo apt-get -f install
+sudo apt install libc6-i386 lib32asound2 lib32z1 ia32-libs
+sudo add-apt-repository universe
+sudo apt-add-repository "deb http://linux.teamviewer.com/deb stable main"
+sudo apt install teamviewer
